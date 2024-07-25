@@ -1,0 +1,17 @@
+{
+  "name": "petshop-ecommerce-backend",
+  "version": "1.0.0",
+  "description": "This is a petshop-ecommerce-backend made by Saleh Eddine Touil",
+  "main": "src\\app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://saleheddinetouil/petshop-ecommerce-backend"
+  },
+  "author": "Saleh Eddine Touil",
+  "license": "ISC"
+}
